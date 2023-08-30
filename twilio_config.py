@@ -1,0 +1,4 @@
+TWILIO_ACCOUNT_SID ='XxYyZzXxYyZzXxYyZzXxYyZzXxYyZzXxYyZz'
+TWILIO_AUTH_TOKEN ='XxYyZzXxYyZzXxYyZzXxYyZzXxYyZzXxYyZz'
+PHONE_NUMBER ='phone number'
+API_KEY_WAPI = 'XxYyZzXxYyZzXxYyZzXxYyZzXxYyZzXxYyZz'
