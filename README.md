@@ -10,7 +10,7 @@ To run this project, you will need the following Python packages installed:
 
 You will also need to have a Twilio account and a WeatherAPI API key.
 ## **Configuration**
-Before running the main script, you will need to configure your Twilio and WeatherAPI credentials in the twilio_config.py file. Make sure to replace the values of the variables TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, PHONE_NUMBER and API_KEY_WAPI with your own credentials.
+Before running the main script, you will need to configure your Twilio and WeatherAPI credentials in the twilio_config.py file. Make sure to replace the values of the variables twilio_account_sid, twilio_auth_token, phone_number and api_key_wapi with your own credentials.
 You will also need to add your phone number to the end of the utils.py file.
 ## **Execute**
 To run the main script, open a terminal and navigate to the directory where the project is located. Then, run the following command:
